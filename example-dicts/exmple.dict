@@ -1,0 +1,16 @@
+* With !str keys
+
+[Key]
+item1=!str "item1"
+item2=!float "2"
+#
+[Another key]
+item3=!str "[3]"
+item4=!bin "4"
+#
+[A third entry]
+item5=!int "5"
+#
+[4]
+item5=!int "3"
+#

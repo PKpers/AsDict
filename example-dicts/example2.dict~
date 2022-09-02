@@ -1,0 +1,10 @@
+* With !mixed keys
+* With !str items
+
+[Key1]
+item1="test"
+item2="test again"
+#
+[2]
+item1="onle one"
+#

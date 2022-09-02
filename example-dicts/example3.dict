@@ -1,0 +1,11 @@
+* With !Mixed keys
+* With !float items
+
+[0=!]
+quantity="4000"
+price="40"
+#
+[1]
+quantity="4000"
+price="4"
+#
