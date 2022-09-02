@@ -1,0 +1,3 @@
+asdict is a python library that reads .dict files *as dictionaries*.
+A dictionary file(.dict) is a file type that I came up with, that contains data that represent python dictionaries.
+Clearly this is still under development. More information and features comming soon...
