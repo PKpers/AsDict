@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "asdict"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Konstantinos Papadimos", email="dinogreco2000@gmail.com" },
 ]

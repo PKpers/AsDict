@@ -1,5 +1,5 @@
+from .exceptions import BlockError, StructureError
 ### Create functions, so that the dict is read following the dict file rules ###
-from errorsClasses import BlockError, StructureError
 def as_type(var, dtype):
     dtypes = ['str', 'float', 'bin', 'int']
     if dtype not in dtypes:
@@ -59,7 +59,6 @@ def get_keys(dict_file, dtype, filename):
         if i !=0: prev_line = dict_file[i-1]
         # does it have a key
         if '[' in k and ']' in k :
-            print(k)
             key_count += 1
             #
             # is the synrax correct
